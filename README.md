@@ -1,30 +1,37 @@
-```python
-class JavaJammer():
-    
-  def __init__(self):
-    self.name = "Franky Setiawan";
-    self.username = "javajammer";
-    self.location = "Bandung, Indonesia";
-    self.twitter = "@infokes";
-    self.web = "https://www.infokes.co.id";
-  
-  def __str__(self):
-    return self.name
+# HTML Error Code Pages
 
-if __name__ == '__main__':
-    me = JavaJammer()
-```
-<p>HTML Error Code Pages</br></br>
-html 5xx - https://err-code.infokes.id/cloudflare-5xx.html </br>
-html 429 - https://err-code.infokes.id/cloudflare-429.html </br>
-html 1xxx - https://err-code.infokes.id/cloudflare-1xxx.html </br>
-html blocked by waf - https://err-code.infokes.id/cloudflare-block.html </br>
-html country block - https://err-code.infokes.id/cloudflare-country-block.html </br>
-html country challenge - https://err-code.infokes.id/cloudflare-country-challenge.html </br>
-html javascript challenge - https://err-code.infokes.id/cloudflare-underattack.html </br>
-</p>
+Koleksi halaman HTML untuk berbagai error code dan challenge page Cloudflare.  
+Semua halaman dapat diakses langsung melalui **GitHub Pages** di  
+🔗 **https://arzarizky.github.io/infi-httpcode/**
 
-<!---
-javajammer/javajammer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## 🌩️ Cloudflare Error Page ePuskesmas
+
+| Deskripsi | Halaman |
+|----------|---------|
+| 5xx Errors ePuskesmas (Full) | [cloudflare-5xx.html](https://arzarizky.github.io/infi-httpcode/epuskesmas/cloudflare-5xx.html) |
+| 5xx Errors ePuskesmas (Minified) | [cloudflare-5xx-min.html](https://arzarizky.github.io/infi-httpcode/epuskesmas/cloudflare-5xx-min.html) |
+| 429 Too Many Requests ePuskesmas | [cloudflare-429.html](https://arzarizky.github.io/infi-httpcode/epuskesmas/cloudflare-429.html) |
+| 1xxx Errors ePuskesmas | [cloudflare-1xxx.html](https://arzarizky.github.io/infi-httpcode/epuskesmas/cloudflare-1xxx.html) |
+| Blocked by WAF ePuskesmas | [cloudflare-block.html](https://arzarizky.github.io/infi-httpcode/epuskesmas/cloudflare-block.html) |
+| Country Block ePuskesmas | [cloudflare-country-block.html](https://arzarizky.github.io/infi-httpcode/epuskesmas/cloudflare-country-block.html) |
+| Country Challenge ePuskesmas | [cloudflare-country-challenge.html](https://arzarizky.github.io/infi-httpcode/epuskesmas/cloudflare-country-challenge.html) |
+| JavaScript Challenge ePuskesmas (Under Attack) | [cloudflare-underattack.html](https://arzarizky.github.io/infi-httpcode/epuskesmas/cloudflare-underattack.html) |
+
+---
+
+## 🌩️ Cloudflare Error Page eClinic
+
+| Deskripsi | Halaman |
+|----------|---------|
+| 5xx Errors eClinic (Full) | [cloudflare-5xx.html](https://arzarizky.github.io/infi-httpcode/eclinic/cloudflare-5xx.html) |
+| 5xx Errors eClinic (Minified) | [cloudflare-5xx-min.html](https://arzarizky.github.io/infi-httpcode/eclinic/cloudflare-5xx-min.html) |
+| 429 Too Many eClinic Requests | [cloudflare-429.html](https://arzarizky.github.io/infi-httpcode/eclinic/cloudflare-429.html) |
+| 1xxx Errors eClinic | [cloudflare-1xxx.html](https://arzarizky.github.io/infi-httpcode/eclinic/cloudflare-1xxx.html) |
+| Blocked by WAF eClinic | [cloudflare-block.html](https://arzarizky.github.io/infi-httpcode/eclinic/cloudflare-block.html) |
+| Country Block eClinic | [cloudflare-country-block.html](https://arzarizky.github.io/infi-httpcode/eclinic/cloudflare-country-block.html) |
+| Country Challenge eClinic | [cloudflare-country-challenge.html](https://arzarizky.github.io/infi-httpcode/eclinic/cloudflare-country-challenge.html) |
+| JavaScript Challenge eClinic (Under Attack) | [cloudflare-underattack.html](https://arzarizky.github.io/infi-httpcode/eclinic/cloudflare-underattack.html) |
+
+---
